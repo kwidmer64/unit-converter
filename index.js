@@ -33,7 +33,7 @@ function massConversion(input) {
     let kilosToPounds = input * 2.205;
     let poundsToKilos = input / 2.205;
 
-    let elementText = `${input} kilograms = ${kilosToPounds.toFixed(3)} pounds | ${input} pounds = ${poundsToKilos.toFixed(3)} kilograms`;
+    let elementText = `${input} kilos = ${kilosToPounds.toFixed(3)} pounds | ${input} pounds = ${poundsToKilos.toFixed(3)} kilos`;
 
     return elementText;
 }
