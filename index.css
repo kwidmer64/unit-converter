@@ -45,12 +45,34 @@ body {
     background-color: #fff;
     font-size: 1.2rem;
 }
-.main {
-    background-color: #fff;
+
+#convert-btn:hover {
+    cursor: pointer;
 }
 
-
-
 .main {
-    
+    background-color: #1F2937;
+    height: 100vh;
+    padding: 35px 25px;
+    box-sizing: initial;
+}
+
+.conversion {
+    background-color: #273549;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 25px;
+}
+
+.conversion h2 {
+    color: #CCC1FF;
+    margin: 0;
+}
+
+.conversion p {
+    color: #FFFFFF;
+    margin: 0;
+    margin-top: 20px;
 }
