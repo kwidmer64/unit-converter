@@ -1,4 +1,4 @@
-# [Metric/Imperial Unit Conversion]([https://kwidmer-password-generator.netlify.app/](https://kwidmer-unit-converter.netlify.app/))
+# [Metric/Imperial Unit Conversion](https://kwidmer-unit-converter.netlify.app/)
 A simple unit converter I made while learning web development on [scrimba.com](https://v2.scrimba.com/home).
 A design document was provided by Scrimba for this project.
 
